@@ -29,26 +29,8 @@ Yüzeye vurulan havlunun çıkardığu sesi ve bıraktığı etkiyi anlamak amac
 
 Yaptığımız araştırmalar sonucunda havlunun vurulması anında çıkan sesim ıslak havludaki boşlukların su ile dolu olmasından ve yüzeye çarpma anında altta kalan havanın boşluklardan çıkamadığı için yanlardan çıkması ile anlık bir ses çıkardığı sonucuna vardık. Ayrıca elimizden belli bir hızla yüzeye vurulan havlunun uca doğru ilerledikçe hızını arttırdığını ve bu yüzden de sesin ve havlunun çarpma şiddetinin fazla olduğunu düşünüyoruz. Yaptığımız deney ile bu düşüncemizi de kanıtlamaya çalışacağız.
 # Giriş (Introduction)
-Bu bölüm; 
-literatür
-taramasından sonra araştırmanın amacı, problem  ve alt problemler, hipotezler ve alt 
-hipotezler, varsayımlar (
-yapılan kabuller
-), sınırlılıklar, tanımlar alt başlıklarına yer verilecek olan bölümdür. 
-Bu bölümde
-literatür
-araştırması yaparken ve çalışmanızı desteklemek üzere alıntı yaparken proje çalışmanızın 
-konusu ile ilgili başkalarının yaptığı çalışmalardan söz ediniz. Sizin çalışmanızın 
-diğer 
-benzer çalışmalardan ayrılan 
-yönlerini belirtiniz. Bu çalışmayı, 
-literatürde
-ki 
-hangi boşluğu doldurmak için yaptığınızı ve 
-literatürde
-yer  alan 
-benzer çalışmalardan neyi nasıl farklı yapacağınızı açıklayınız. Benzer çalışmalardan nasıl yararlandığınızı ve sizin 
-çalışmanızın neleri hedeflediğini açıklayınız. Bu bölümde kaynakça gösterimi yapınız. 
+Islak havlu sert bir yüzeye vurulduğunda kuru havluya oranla daha yüksek bir ses çıkartır ve kırbaç etkisi yaratır. Araştırmalarımıza göre çıkan sesin şiddeti çeşitli etkenlere bağlıdır. Bu nedenler; havlunun cinsi, yüzey alanı, nemlilik miktarı, incelik-kalınlığı ve vurulan yüzeyin cinsidir. 
+Havlunun kalınlığı ile nemlilik miktarının sesin şiddetiyle doğru orantılı olduğunu düşünüyoruz. Yapacağımız deneyle birlikte bu hipotezimizi kanıtlamaya çalışacağız.
 # Materyal ve Yöntem (Experimental Setup)
 
 Bu bölümde aşağıdaki kısımla
